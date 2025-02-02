@@ -46,8 +46,11 @@ The system uses the "UpdatedResumeDataSet.csv" dataset for training and evaluati
 
 ## Result 
 **Job description and CV** 
+
   <img width="442" alt="image" src="https://github.com/user-attachments/assets/6ca44b2c-7d68-41bb-b4b6-813e13fa7b2f" />
+  
 **Model output** 
+
   <img width="346" alt="image" src="https://github.com/user-attachments/assets/4a469e41-30dc-43d4-be8a-460f76077c11" />
 
 ## Further Improvment
