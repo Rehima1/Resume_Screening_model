@@ -55,6 +55,6 @@ The system uses the "UpdatedResumeDataSet.csv" dataset for training and evaluati
 
 ## Further Improvment
 
-* **Improve accuracy:**The similarity evaluation can be enhanced by using a model instead of the current function. However, there isn't a suitable public dataset available to train the model.
+* **Improve accuracy:**The similarity evaluation can be enhanced by using a model instead of the current function (I used cosine similarity here). However, there isn't a suitable public dataset available to train the model.
 * **Expand functionality:** it possible to expand the functionalit of the model and system with more complex dataset and feature engineering.
 * **Integrate with databases:** Store resume data and analysis results in a database for efficient management and retrieval.
