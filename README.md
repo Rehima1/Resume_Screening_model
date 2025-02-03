@@ -2,7 +2,7 @@
 
 ## Overview
 
-I initially designed this model for myself to identify job opportunities that best align with my skills and experience. However, I quickly realized its potential to benefit both HR teams and job seekers, streamlining the hiring process and improving job matching accuracy. This project isn't just about automation it's about empowering job seekers (like me 😄 ) and recruiters with data driven insights to make smarter career and hiring decisions. 
+I initially designed this model for myself to identify job opportunities that best align with my skills and experience. However, I quickly realized its potential to benefit both HR teams and job seekers, streamlining the hiring process and improving job matching accuracy. This project isn't just about automation it's about empowering job seekers (like me 😄 ) and recruiters with data driven insights to make smarter career and hiring decisions. I plan to make this system free for job seekers because I know how stressful the job search process can be. I personally struggled to find free platforms that could make it easier, so I want to lend a helping hand to those in the same shoes as me.
 
 ## Features
 
@@ -55,6 +55,5 @@ The system uses the "UpdatedResumeDataSet.csv" dataset for training and evaluati
 
 ## Further Improvment
 
-**Improve accuracy:** The similarity evaluation can be enhanced by using a model instead of the current function (I used cosine similarity here). However, there isn't a suitable public dataset available to train the model.
+* **Improve accuracy:** The similarity evaluation can be enhanced by using a model instead of the current function (I used cosine similarity here). However, there isn't a suitable public dataset available to train the model.
 * **Expand functionality:** it possible to expand the functionalit of the model and system with more complex dataset and feature engineering.
-* **Integrate with databases:** Store resume data and analysis results in a database for efficient management and retrieval.
